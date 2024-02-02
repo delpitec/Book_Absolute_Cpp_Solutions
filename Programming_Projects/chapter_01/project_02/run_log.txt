@@ -1,0 +1,4 @@
+Type rat weight (g): 150.5
+Type fatal sweetener amount to a 150.50 g rat (ml): 2.2
+Type person target weight (kg): 85.9
+A 85.90 kg person can drink a total soda amount of 1255.68 L.

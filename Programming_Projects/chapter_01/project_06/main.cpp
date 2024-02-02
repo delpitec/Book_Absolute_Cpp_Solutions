@@ -53,13 +53,14 @@ int main(int argc, char** argv)
     }
 
     // Discount
-    valueToBePaid -= (percentSocialSecurityTax * valueToBePaid) / 100;
-    valueToBePaid -= (percentFederalTax, valueToBePaid) / 100;
-    valueToBePaid -= (percentStateTax, valueToBePaid) / 100;
+    valueToBePaid -= (percentSocialSecurityTax * valueToBePaid) / 100.0;
+    valueToBePaid -= (percentFederalTax * valueToBePaid) / 100.0;
+    valueToBePaid -= (percentStateTax * valueToBePaid) / 100.0;
     valueToBePaid -= unionTax;
+    
     if (dependents >= dependentsExtraTax){
         valueToBePaid -= dependentsDiscount;
     }
     
-    std::cout << "Value to be paid: " << valueToBePaid << endl;
+    std::cout << "Value to be paid: R$" << valueToBePaid << endl;
 }

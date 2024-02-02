@@ -1,0 +1,3 @@
+Write packet weight in ounces: 1609.8
+Each package has 0.05 tons.
+One ton has 21.91 packages.

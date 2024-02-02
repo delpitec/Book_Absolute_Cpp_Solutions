@@ -1,0 +1,4 @@
+Last year salary: 24000
+Total pending ammount: R$912.00
+New year salary: R$25824.00
+New monthly salary: R$2152.00

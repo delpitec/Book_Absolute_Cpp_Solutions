@@ -1,0 +1,4 @@
+Total amount need(R$): 800
+Loan interest rate(%): 2.3
+Loan duration (months): 12
+If you need to receive R$800.00 then you will need to order a R$818.83 nominal loan and refound in 12 installments of R$68.24

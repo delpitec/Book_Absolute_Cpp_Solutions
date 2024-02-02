@@ -54,5 +54,5 @@ int main(int ac, char* av[])
     loan = (needed_loan * needed_loan) / refound;
     monthly_refound = loan / loan_duration_months;
     
-    cout << "If you need to receive R$" << needed_loan << " then you will need to order a R$" << loan << " nominal loan and refound in" << loan_duration_months << "installments of R$" << monthly_refound << endl;
+    cout << "If you need to receive R$" << needed_loan << " then you will need to order a R$" << loan << " nominal loan and refound in " << loan_duration_months << " installments of R$" << monthly_refound << endl;
 }
