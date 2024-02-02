@@ -1,0 +1,4 @@
+Type how much is the pencil unit (R$): 1.5
+Type how many years from now should the estimate be: 3
+Type the inflation rate (%): 4.5
+Estimate value for 3years is: R$1.71

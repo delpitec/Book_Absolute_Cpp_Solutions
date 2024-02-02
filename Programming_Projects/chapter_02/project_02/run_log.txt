@@ -1,0 +1,4 @@
+Type equipment value (R$): 2500.99
+Type monthly interest (%): 1.5
+Type installment (R$): 100
+The total interest paid during 32 months is: R$657.59
