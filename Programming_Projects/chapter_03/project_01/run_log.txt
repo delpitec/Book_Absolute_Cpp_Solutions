@@ -1,0 +1,8 @@
+Type total used gas (L): 30
+Type total traveled distance (mi): 70
+Avarage: 8.83 mi/ga
+Calculate again? (y/n) y
+Type total used gas (L): 50
+Type total traveled distance (mi): 90
+Avarage: 6.81 mi/ga
+Calculate again? (y/n) n

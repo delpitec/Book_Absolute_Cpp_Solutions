@@ -1,0 +1,7 @@
+Type fist value....: 15
+Type second value..: 27
+Type third value...: 12
+Type fourth value..: 13
+Average deviation: 5.125
+Stadard deviation: 6.0156
+Calculate again? (yes/no) n

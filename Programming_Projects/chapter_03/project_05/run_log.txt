@@ -1,0 +1,5 @@
+Type your height (in) 77.16535
+Type your weight (lbs) 229.281
+Type your age 32
+Hat Size 8.62  Coat size 6100.88in  Belt size 40.42in
+Calculate again (yn) n

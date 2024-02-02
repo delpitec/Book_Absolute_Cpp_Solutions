@@ -1,0 +1,5 @@
+Type mass 1 (g): 10
+Type mass 2 (g): 5
+Type distance between the points (cm): 1
+Gravitacional force is: 3.337e-06 g*cm/sec▓
+Calculate again? (y/n) n

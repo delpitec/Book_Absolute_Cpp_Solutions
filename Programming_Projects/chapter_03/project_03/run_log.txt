@@ -1,0 +1,6 @@
+Type old price (R$): 1.50
+Type new price (R$): 2.25
+Inflation: 50.00%
+Estimate value (1st year): R$3.38
+Estimate value (2nd year): R$5.06
+Calculate again? (y/n) n

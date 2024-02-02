@@ -1,0 +1,3 @@
+Type temperature (║C): 9
+Type wind speed (m/s): 4
+Wind chill factor is: 5.47

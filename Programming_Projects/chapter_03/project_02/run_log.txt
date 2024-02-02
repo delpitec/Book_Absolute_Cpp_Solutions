@@ -1,0 +1,4 @@
+Type old price (R$): 15.90
+Type new price (R$): 24.50
+Inflation: 54.00%
+Calculate again? (y/n) n
