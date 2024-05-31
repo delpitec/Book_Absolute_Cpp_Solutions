@@ -1,0 +1,12 @@
+Type the 24h format hour (hh mm): 10 45
+12h format: 10:45 AM
+Convert again? (y/n) y
+Type the 24h format hour (hh mm): 12 20
+12h format: 12:20 PM
+Convert again? (y/n) y
+Type the 24h format hour (hh mm): 19 37
+12h format: 19:37 PM
+Convert again? (y/n) y
+Type the 24h format hour (hh mm): 00 32
+12h format: 00:32 AM
+Convert again? (y/n) n

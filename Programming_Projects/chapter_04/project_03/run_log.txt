@@ -1,0 +1,10 @@
+Type cents value to convert (0 ~ 99): 47
+1 coins of 25 cents
+2 coins of 10 cents
+2 coins of 1 cents
+Convert again? (y/n) y
+Type cents value to convert (0 ~ 99): 98
+3 coins of 25 cents
+2 coins of 10 cents
+3 coins of 1 cents
+Convert again? (y/n) n

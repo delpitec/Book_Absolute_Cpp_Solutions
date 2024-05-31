@@ -1,0 +1,16 @@
+Choose the convertion: (1) ft and in to m and cm or (2) m and cm to ft and in [1/2]: 1
+Type a lengh value (ft): 16
+Type a lengh value (in): 9
+16.00 ft = 4.88 m
+16.00 ft = 487.68 cm
+9.00 in = 0.23 m
+9.00 in = 22.86 cm
+Calculate again? (y/n) y
+Choose the convertion: (1) ft and in to m and cm or (2) m and cm to ft and in [1/2]: 2
+Type a lengh value (m): 16
+Type a lengh value (in): 9
+16.00 m = 52.49 ft
+16.00 m = 629.92 in
+9.00 cm = 0.30 ft
+9.00 cm = 3.54 in
+Calculate again? (y/n) n

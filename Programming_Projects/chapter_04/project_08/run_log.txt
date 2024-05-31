@@ -1,0 +1,7 @@
+Type a weight value (kg): 16
+Type a weight value (g): 9
+16.00 kg = 35.27 lb
+16.00 kg = 564.38 oz
+9.00 g = 0.02 lb
+9.00 g = 0.32 oz
+Calculate again? (y/n) n

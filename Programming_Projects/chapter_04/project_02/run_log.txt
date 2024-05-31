@@ -1,0 +1,5 @@
+Type 1st side value: 15
+Type 2nd side value: 25
+Type 3rd side value: 32
+A triangle with side a = 15 ; b = 25 ; c = 32 has:
+Perimeter: 72 ; Area: 182.384

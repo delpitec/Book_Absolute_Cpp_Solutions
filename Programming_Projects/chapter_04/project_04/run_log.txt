@@ -1,0 +1,7 @@
+Type a lengh value (ft): 16
+Type a lengh value (in): 9
+16.00 ft = 4.88 m
+16.00 ft = 487.68 cm
+9.00 in = 0.23 m
+9.00 in = 22.86 cm
+Calculate again? (y/n) n

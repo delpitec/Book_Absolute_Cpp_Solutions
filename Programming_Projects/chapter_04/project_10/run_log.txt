@@ -1,0 +1,36 @@
+Choose the convertion: (1) for lenght or (2) for weight[1/2]: 1
+Choose the convertion: (1) ft and in to m and cm or (2) m and cm to ft and in [1/2]: 1
+Type a lengh value (ft): 16
+Type a lengh value (in): 9
+16.00 ft = 4.88 m
+16.00 ft = 487.68 cm
+9.00 in = 0.23 m
+9.00 in = 22.86 cm
+Calculate again? (y/n) y
+Choose the convertion: (1) for lenght or (2) for weight[1/2]: 1
+Choose the convertion: (1) ft and in to m and cm or (2) m and cm to ft and in [1/2]: 2
+Type a lengh value (m): 16
+Type a lengh value (in): 9
+16.00 m = 52.49 ft
+16.00 m = 629.92 in
+9.00 cm = 0.30 ft
+9.00 cm = 3.54 in
+Calculate again? (y/n) y
+Choose the convertion: (1) for lenght or (2) for weight[1/2]: 2
+Choose the convertion: (1) lb and oz to kg and g or (2) kg and g to lb and oz [1/2]: 1
+Type a weight value (lb): 16
+Type a lengh value (oz): 9
+16.00 lb = 7.26 kg
+16.00 lb = 7257.55 g
+9.00 oz = 0.26 kg
+9.00 oz = 255.15 g
+Calculate again? (y/n) y
+Choose the convertion: (1) for lenght or (2) for weight[1/2]: 2
+Choose the convertion: (1) lb and oz to kg and g or (2) kg and g to lb and oz [1/2]: 2
+Type a weight value (kg): 16
+Type a weight value (g): 9
+16.00 kg = 35.27 lb
+16.00 kg = 564.38 oz
+9.00 g = 0.02 lb
+9.00 g = 0.32 oz
+Calculate again? (y/n) n
